@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated QR codes
+*.png
+*.svg
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
