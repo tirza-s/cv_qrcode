@@ -1,6 +1,6 @@
 # QR Code Generator for CV
 
-This my personal fun project generates custom QR codes for my CV, using [Segno](https://github.com/heuer/segno) for QR generation and [Pillow](https://python-pillow.org/) for image processing.  
+This is my personal fun project that generates custom QR codes for my CV, using [Segno](https://github.com/heuer/segno) for QR generation and [Pillow](https://python-pillow.org/) for image processing.  
 It includes two versions:
 - **Plain QR code** (no logo)
 - **QR code with logo embedded**
