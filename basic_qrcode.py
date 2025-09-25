@@ -1,12 +1,12 @@
 import segno
 from PIL import Image
 
-cv_link = "https://t.ly/1doCZ"
+cv_link = "https://t.ly/jUNcb"
 
 # Generate QR code with custom colors and error correcttion level set to high = h
 my_qr = segno.make(cv_link, error="h")
 my_qr.save(
-    "my_qrcode.svg", 
+    "my_qrcode.png", 
     scale = 8, #Controls resolution (bigger scale = larger image)
     border = 6, # thickness of the border arround the qr 
     data_dark = (203, 176, 255), # Color for data modules (inner pixels)
@@ -16,7 +16,7 @@ my_qr.save(
 
 # Open the generated QR code and my logo image
 qr_image = Image.open("my_qrcode.png").convert("RGBA")
-logo = Image.open("logo/tirza-s logo.svg").convert("RGBA")
+logo = Image.open("logo/tirza-s logo.png").convert("RGBA")
 
 # Resize logo to 25% of the QR code width
 qr_w, qr_h = qr_image.size
