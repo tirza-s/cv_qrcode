@@ -4,8 +4,8 @@ It includes two versions:
 - **Plain QR code** (no logo)
 - **QR code with logo embedded**
 
-<img width="300" height="289" alt="QR code without logo" src="https://github.com/user-attachments/assets/38bb5e17-9a00-4a39-bd01-76548e1d7659" />
-<img width="300" height="289" alt="QR code with logo" src="https://github.com/user-attachments/assets/ae1abbbd-ea9e-4245-affa-c6252667a7c0" />
+<img width="390" height="389" alt="SAMOSIR Tirza-QRCode without logo" src="https://github.com/user-attachments/assets/af13a6b3-27cb-431f-9a3b-649adbe63980" />
+<img width="390" height="389" alt="SAMOSIR Tirza-QRCode with logo" src="https://github.com/user-attachments/assets/e794dc34-8946-41f8-a7fd-950cad1778cb" />
 
 ---
 
